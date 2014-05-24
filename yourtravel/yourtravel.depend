@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1400971339 source:c:\users\jg\desktop\travel_jg\yourtravel\main.cpp
+	<iostream>
+	<string.h>
+	<TravelPlan.h>
+	<City.h>
+
+1400970790 c:\users\jg\desktop\travel_jg\yourtravel\include\travelplan.h
+	<iostream>
+	<string.h>
+	<Spot.h>
+
+1400970231 c:\users\jg\desktop\travel_jg\yourtravel\include\spot.h
+	<iostream>
+	<string.h>
+	<Transport.h>
+	<City.h>
+
+1400971266 c:\users\jg\desktop\travel_jg\yourtravel\include\transport.h
+	<iostream>
+	<string.h>
+
+1400971472 c:\users\jg\desktop\travel_jg\yourtravel\include\city.h
+	<iostream>
+	<string.h>
+	<Schedule.h>
+
+1400971433 c:\users\jg\desktop\travel_jg\yourtravel\include\schedule.h
+	<iostream>
+	<string.h>
+	<City.h>
+	<Transport.h>
+
+1400968762 source:c:\users\jg\desktop\travel_jg\yourtravel\src\city.cpp
+	"City.h"
+
+1400969715 source:c:\users\jg\desktop\travel_jg\yourtravel\src\schedule.cpp
+	"Schedule.h"
+
+1400968594 source:c:\users\jg\desktop\travel_jg\yourtravel\src\spot.cpp
+	"Spot.h"
+
+1400968745 source:c:\users\jg\desktop\travel_jg\yourtravel\src\transport.cpp
+	"Transport.h"
+
+1400968361 source:c:\users\jg\desktop\travel_jg\yourtravel\src\travelplan.cpp
+	"TravelPlan.h"
+
