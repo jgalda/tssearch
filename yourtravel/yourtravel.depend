@@ -5,13 +5,16 @@
 	<TravelPlan.h>
 	<Schedule.h>
 
-1400970790 c:\users\jg\desktop\travel_jg\yourtravel\include\travelplan.h
+1401145955 c:\users\jg\desktop\travel_jg\yourtravel\include\travelplan.h
 	<iostream>
 	<string.h>
+	<vector>
+	<stdlib.h>
 	<Spot.h>
 
-1401012067 c:\users\jg\desktop\travel_jg\yourtravel\include\spot.h
+1401151276 c:\users\jg\desktop\travel_jg\yourtravel\include\spot.h
 	<iostream>
+	<vector>
 	<string.h>
 	<Transport.h>
 	<City.h>
@@ -43,6 +46,6 @@
 1400968745 source:c:\users\jg\desktop\travel_jg\yourtravel\src\transport.cpp
 	"Transport.h"
 
-1400968361 source:c:\users\jg\desktop\travel_jg\yourtravel\src\travelplan.cpp
+1401151053 source:c:\users\jg\desktop\travel_jg\yourtravel\src\travelplan.cpp
 	"TravelPlan.h"
 

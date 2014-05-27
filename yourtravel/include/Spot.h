@@ -2,6 +2,7 @@
 #define SPOT_H
 
 #include <iostream>
+#include <vector>
 #include <string.h>
 
 #include <Transport.h>
@@ -20,10 +21,11 @@ class Spot
         int arrival_time;
         int departure_time;
         int time_of_travel;
+        int cost_of_travel;
 
         Spot();
         virtual ~Spot();
-        void choose_best_transport_to_leave(Schedule timetable);
+        void choose_best_transport_to_leave(vector<Schedule> timetable);
 
     protected:
     private:
